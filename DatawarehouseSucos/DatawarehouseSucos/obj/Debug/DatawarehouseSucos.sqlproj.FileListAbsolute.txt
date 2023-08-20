@@ -1,0 +1,5 @@
+C:\Users\danie\source\repos\Danieloliver1\ETL_com_Integration_Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\danie\source\repos\Danieloliver1\ETL_com_Integration_Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\danie\source\repos\Danieloliver1\ETL_com_Integration_Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\danie\source\repos\Danieloliver1\ETL_com_Integration_Services\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\danie\source\repos\Danieloliver1\ETL_com_Integration_Services\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb

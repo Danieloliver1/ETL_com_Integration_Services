@@ -7,7 +7,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{e6e2f5fc-00db-404c-a8e2-29f59f28dee7}</ProjectGuid>
+<<<<<<< HEAD
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql140DatabaseSchemaProvider</DSP>
+=======
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
+>>>>>>> 8a4ae0fbdd6ebb1ab441325984061fe32c8cab4c
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -22,7 +26,10 @@
     <SqlServerVerification>False</SqlServerVerification>
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseSet>True</TargetDatabaseSet>
+<<<<<<< HEAD
     <GenerateCreateScript>True</GenerateCreateScript>
+=======
+>>>>>>> 8a4ae0fbdd6ebb1ab441325984061fe32c8cab4c
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -57,6 +64,7 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+<<<<<<< HEAD
     <Folder Include="Tabelas" />
   </ItemGroup>
   <ItemGroup>
@@ -75,5 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatawarehouseSucos.refactorlog" />
+=======
+>>>>>>> 8a4ae0fbdd6ebb1ab441325984061fe32c8cab4c
   </ItemGroup>
 </Project>
